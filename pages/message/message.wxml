@@ -1,2 +1,4 @@
 <!--pages/message/message.wxml-->
 <text>{{message}}</text>
+
+<view id="tapTest" data-hi="WeChat" bindtap="tapName"> Click me! </view> 
